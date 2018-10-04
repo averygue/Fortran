@@ -4,7 +4,7 @@ Then reports how many molecules in the final arrangement have no neighbors. (not
 
 Example:
 
-Isolated Molecules: 3 
+Isolated Molecules: 3  <br>
        * * * * M <br>
        M * M M * <br>
        * * * * * <br>
