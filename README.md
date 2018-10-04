@@ -5,8 +5,8 @@ Then reports how many molecules in the final arrangement have no neighbors. (not
 Example:
 
 Isolated Molecules: 3 
-       * * * * M
-       M * M M *
-       * * * * *
-       * M * * M
-       * * * * M
+       * * * * M \n
+       M * M M * \n
+       * * * * * \n
+       * M * * M \n
+       * * * * M \n
